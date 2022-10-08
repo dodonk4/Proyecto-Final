@@ -1,0 +1,8 @@
+<form action="/carrito" method="POST">
+  <ul id="ulo">
+  {{#each productos}}
+    <li>{{title}} ${{precio}} Stock disponible: <b class="derWarenberstand" >{{stock}}</b><input hidden type="number" value={{stock}} name="stock"> <img src={{foto}} width="70" height="70"> </li><input class="dieQuantität" type="number" placeholder="Cantidad" name="cantidad">
+  {{/each}}
+  </ul>
+  <input type="submit" value="Confirmar carrito">
+</form>

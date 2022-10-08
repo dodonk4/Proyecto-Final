@@ -1,0 +1,18 @@
+  <div> 
+      <label>CHAT</label><br>
+      <p>Mail: {{correo}}</p>
+      <p>Nombre: {{nombre}}</p>
+      <p id="emailParaSend" hidden="hidden">{{correo}}</p>
+      <ul id="contenedorDeMensajes">
+          {{#each mensajes}}
+            <li><p class="azulNegrita" style="color: blue; font-weight: bold; display: inline-block;">{{email}}</p> <p id="normalMarron" style="color: brown; display: inline-block;">{{fecha}}</p> <p id="italicVerde" style="color: green; font-style: italic; display: inline-block;" >{{contenido}}</p></li>
+            
+          {{/each}}
+      </ul>
+      <input type="text" placeholder="Mensaje" id="barraDeMensaje">
+      <input type="button" value="Enviar" id="botonDeEnviar">
+  </div>
+
+<form action="/productos" method="GET">
+  <input type="submit" value="Volver al Inicio">
+</form>

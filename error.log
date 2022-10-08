@@ -1,0 +1,154 @@
+[2022-08-06T10:25:38.853] [ERROR] archivoError - fallo la operacion obtenerTodos: error is not defined
+[2022-08-06T10:29:02.888] [ERROR] archivoError - fallo la operacion obtenerTodos: error is not defined
+[2022-08-16T09:56:14.088] [ERROR] archivoError - Error de lectura: ReferenceError: usuario is not defined
+[2022-08-20T09:48:37.346] [ERROR] archivoError - Error de lectura: TypeError: Cannot create property 'cantidad' on boolean 'true'
+[2022-08-20T10:13:11.783] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading '0')
+[2022-08-20T10:13:43.999] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading '0')
+[2022-08-20T14:27:34.266] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T22:33:03.833] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T22:36:12.952] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T22:37:57.974] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T22:39:37.244] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T22:41:08.172] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T22:56:03.972] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T22:57:48.288] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T22:59:45.127] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T22:59:45.287] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T23:01:12.084] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T23:01:12.154] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-20T23:04:50.959] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-08-24T07:23:51.018] [ERROR] archivoError - TypeError: Cannot read properties of undefined (reading 'user')
+    at postProduct (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:126:37)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+[2022-08-24T07:26:06.738] [ERROR] archivoError - TypeError: Cannot read properties of undefined (reading 'user')
+    at postProduct (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:126:37)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+[2022-08-24T07:26:35.999] [ERROR] archivoError - TypeError: productosDao.saveProduct is not a function
+    at postProduct (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:128:36)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+[2022-08-24T07:58:59.500] [ERROR] archivoError - Error de lectura: ReferenceError: producto is not defined
+[2022-08-24T07:59:13.800] [ERROR] archivoError - Error de lectura: ReferenceError: producto is not defined
+[2022-08-24T08:00:51.910] [ERROR] archivoError - Error de lectura: ReferenceError: producto is not defined
+[2022-08-24T08:03:34.929] [ERROR] archivoError - Error de lectura: ReferenceError: producto is not defined
+[2022-08-24T08:03:37.348] [ERROR] archivoError - Error de lectura: ReferenceError: producto is not defined
+[2022-08-24T08:05:24.145] [ERROR] archivoError - Error de lectura: ReferenceError: producto is not defined
+[2022-08-25T08:53:20.664] [ERROR] archivoError - TypeError: Cannot read properties of undefined (reading 'value')
+    at updateCarritoCantidad (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:174:59)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-25T08:53:58.366] [ERROR] archivoError - TypeError: Cannot read properties of undefined (reading 'values')
+    at updateCarritoCantidad (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:174:59)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-25T09:03:08.002] [ERROR] archivoError - TypeError: Cannot read properties of undefined (reading '5')
+    at updateCarritoCantidad (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:174:62)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-25T09:05:44.631] [ERROR] archivoError - TypeError: Cannot read properties of undefined (reading '5')
+    at updateCarritoCantidad (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:175:62)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-25T09:07:08.808] [ERROR] archivoError - TypeError: array.parseFloat is not a function
+    at updateCarritoCantidad (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:175:55)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-08-26T08:56:12.483] [ERROR] archivoError - Error de lectura: function Error() { [native code] }
+[2022-08-26T23:03:53.251] [ERROR] archivoError - Error de lectura: function Error() { [native code] }
+[2022-08-26T23:03:53.252] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'title')
+[2022-08-26T23:06:26.137] [ERROR] archivoError - Error de lectura: function Error() { [native code] }
+[2022-08-26T23:06:26.139] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'title')
+[2022-08-26T23:08:17.909] [ERROR] archivoError - Error de lectura: function Error() { [native code] }
+[2022-08-26T23:08:17.921] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'title')
+[2022-08-26T23:09:35.288] [ERROR] archivoError - Error de lectura: function Error() { [native code] }
+[2022-08-26T23:09:35.289] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'title')
+[2022-08-26T23:11:20.057] [ERROR] archivoError - Error de lectura: function Error() { [native code] }
+[2022-08-26T23:11:20.059] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'title')
+[2022-08-26T23:11:54.496] [ERROR] archivoError - Error de lectura: function Error() { [native code] }
+[2022-08-26T23:11:54.497] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'title')
+[2022-08-26T23:25:25.967] [ERROR] archivoError - TypeError: Cannot read properties of undefined (reading 'user')
+    at postProduct (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:127:37)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+[2022-08-26T23:37:59.360] [ERROR] archivoError - TypeError: Cannot read properties of undefined (reading 'user')
+    at postProduct (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/Nodemailer/controladores/controladorComplejo.js:127:37)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\Nodemailer\node_modules\express\lib\router\layer.js:95:5)
+[2022-08-27T00:13:52.619] [ERROR] archivoError - Error de lectura: ValidationError: nombre: Cast to string failed for value "[ 'agustin', 'Agustin' ]" (type Array) at path "nombre", email: Path `email` is required.
+[2022-08-27T00:15:51.330] [ERROR] archivoError - Error de lectura: ValidationError: nombre: Cast to string failed for value "[ 'agustin', 'Agustin' ]" (type Array) at path "nombre"
+[2022-09-03T11:22:03.091] [ERROR] archivoError - Error de lectura: ValidationError: mayoriaDeEdad: Path `mayoriaDeEdad` is required.
+[2022-09-03T11:26:47.729] [ERROR] archivoError - Error de lectura: ValidationError: mayoriaDeEdad: Path `mayoriaDeEdad` is required.
+[2022-09-03T11:32:20.696] [ERROR] archivoError - Error de lectura: ValidationError: mayoriaDeEdad: Path `mayoriaDeEdad` is required.
+[2022-09-03T11:32:57.543] [ERROR] archivoError - Error de lectura: ValidationError: mayoriaDeEdad: Path `mayoriaDeEdad` is required.
+[2022-09-03T11:37:35.413] [ERROR] archivoError - Error de lectura: ValidationError: mayoriaDeEdad: Path `mayoriaDeEdad` is required.
+[2022-09-06T16:20:06.971] [ERROR] archivoError - Error de lectura: ValidationError: contraseña: Path `contraseña` is required., telefono: Path `telefono` is required., email: Path `email` is required., direccion: Path `direccion` is required., edad: Path `edad` is required., foto: Path `foto` is required., codigoSecreto: Path `codigoSecreto` is required.
+[2022-09-06T16:20:37.865] [ERROR] archivoError - Error de lectura: ReferenceError: codigoSecreto is not defined
+[2022-09-06T16:22:26.946] [ERROR] archivoError - Error de lectura: ValidationError: direccion: Path `direccion` is required.
+[2022-09-06T16:22:51.994] [ERROR] archivoError - Error de lectura: ReferenceError: codigoSecreto is not defined
+[2022-10-02T17:07:43.694] [ERROR] archivoError - Error de lectura: ReferenceError: array is not defined
+[2022-10-03T17:34:17.443] [ERROR] archivoError - TypeError: Cannot read properties of undefined (reading 'user')
+    at createCarritoOnlyAdmin (file:///C:/Users/USUARIO/Documents/CARPETAS%20ESCRITORIO/programacion/Curso%20de%20Backend/Proyecto-Backend/GraphQL/controladores/controladorComplejo.js:187:37)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\GraphQL\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\GraphQL\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\GraphQL\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\GraphQL\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\GraphQL\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\GraphQL\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\GraphQL\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\GraphQL\node_modules\body-parser\lib\types\urlencoded.js:100:7)
+    at Layer.handle [as handle_request] (C:\Users\USUARIO\Documents\CARPETAS ESCRITORIO\programacion\Curso de Backend\Proyecto-Backend\GraphQL\node_modules\express\lib\router\layer.js:95:5)
+[2022-10-06T00:25:00.702] [ERROR] archivoError - Error de lectura: ReferenceError: array is not defined
+[2022-10-06T00:36:53.183] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-10-06T00:39:21.246] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-10-06T00:40:59.885] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-10-06T11:02:26.089] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading 'cantidad')
+[2022-10-06T11:46:29.725] [ERROR] archivoError - Error de lectura: ValidationError: contendio: Path `contendio` is required.
+[2022-10-06T11:49:00.112] [ERROR] archivoError - Error de lectura: ValidationError: contenido: Path `contenido` is required.
+[2022-10-06T21:05:04.663] [ERROR] archivoError - Error de lectura: ValidationError: email: Path `email` is required.
+[2022-10-06T21:31:42.025] [ERROR] archivoError - Error de lectura: ValidationError: email: Path `email` is required.
+[2022-10-06T22:36:23.229] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading '0')
+[2022-10-06T22:37:36.840] [ERROR] archivoError - Error de lectura: TypeError: Cannot read properties of undefined (reading '0')
+[2022-10-06T22:43:43.767] [ERROR] archivoError - Error de lectura: ReferenceError: contenedorTemporal is not defined
+[2022-10-06T22:44:51.503] [ERROR] archivoError - Error de lectura: ReferenceError: contenedorTemporal is not defined
+[2022-10-06T22:46:41.548] [ERROR] archivoError - Error de lectura: ReferenceError: contenedorTemporal is not defined
+[2022-10-06T22:47:28.480] [ERROR] archivoError - Error de lectura: ReferenceError: contenedorTemporal is not defined
+[2022-10-06T22:48:52.257] [ERROR] archivoError - Error de lectura: ReferenceError: contenedorTemporal is not defined
+[2022-10-06T22:50:08.388] [ERROR] archivoError - Error de lectura: ReferenceError: contenedorTemporal is not defined
+[2022-10-06T22:51:13.642] [ERROR] archivoError - Error de lectura: ReferenceError: contenedorTemporal is not defined
+[2022-10-06T22:53:25.045] [ERROR] archivoError - Error de lectura: ReferenceError: contenedorTemporal is not defined
+[2022-10-07T17:24:27.220] [ERROR] archivoError - Error de lectura: TypeError: this.verifySecretCode is not a function
+[2022-10-07T17:26:39.909] [ERROR] archivoError - Error de lectura: TypeError: this.verifySecretCode is not a function
+[2022-10-07T18:16:36.694] [ERROR] archivoError - Error de lectura: ValidationError: tipo: Path `tipo` is required.
+[2022-10-07T18:22:09.369] [ERROR] archivoError - Error de lectura: ValidationError: tipo: Path `tipo` is required.

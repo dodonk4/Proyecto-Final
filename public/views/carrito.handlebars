@@ -1,0 +1,22 @@
+<div id="dieTitelContainer">
+    <div id="dieTitel"><h1> Carrito de <b id="derName">{{nombre}}</b> </h1></div>
+    <form action="/logout" method="GET">
+        <input type="submit" value="Desloguearse">
+    </form><br>
+</div>
+
+
+<form action="/carrito" method="POST">
+  <ul id="ulo">
+    {{#each productos}}
+      <li>{{title}} ${{precio}} Stock disponible: <b class="derWarenberstand" >{{stock}}</b><input hidden type="number" value={{stock}} name="stock"> <img src={{foto}} width="70" height="70"> </li><input class="dieQuantität" value={{cantidad}} type="number" placeholder="Cantidad" name="cantidad">
+    {{/each}}
+    </ul>
+   <input type="submit" value="Guardar Carrito">
+</form>
+<form id="dieWarenkorbsLöschenTaste" action="/carritoDone" method="POST">
+  {{#each productos}}
+      <input hidden="hidden" class="dieQuantität" value={{cantidad}} type="number" placeholder="Cantidad" name="cantidad">
+  {{/each}}
+    <input type="submit" value="Confirmar Pedido">
+</form>

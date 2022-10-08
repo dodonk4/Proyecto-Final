@@ -1,0 +1,24 @@
+<p>Bienvenido {{nombre}}</p>
+<p>Edad: {{edad}}</p>
+<p>Telefono: {{telefono}}</p>
+<p>Email: {{email}}</p>
+<p>Dirección: {{direccion}}</p>
+<img src={{foto}} width="50" height="50">
+<form action="/logout" method="GET">
+    <input type="submit" value="Desloguearse">
+</form>
+<br>
+
+
+<form action="/chat" method="GET">
+    <input type="submit" value="Chat">
+</form>
+<form action="/carrito" method="POST">
+  <ul id="ulo">
+  {{#each productos}}
+    <li>{{title}} ${{precio}} Stock disponible: <b class="derWarenberstand" >{{stock}}</b><input hidden type="number" value={{stock}} name="stock"> <img src={{foto}} width="70" height="70"> </li><input class="dieQuantität" type="number" placeholder="Cantidad" name="cantidad">
+  {{/each}}
+  </ul>
+  <input type="submit" value="Confirmar carrito">
+</form>
+    <br>
